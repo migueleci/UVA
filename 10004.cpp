@@ -1,4 +1,5 @@
-//UVa-10004    Bicoloring 
+// gaeasdasd
+//UVa-10004    Bicoloring  asd asdas
 //#include <bits/stdc++.h>
 #include <algorithm>
 #include <cstdio>
