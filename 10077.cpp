@@ -1,4 +1,4 @@
-//UVa-10077      The Stern-Brocot Number System
+//UVa-10077      The Stern-Brocot Number System asdsa
 //#include <bits/stdc++.h>
 #include <algorithm>
 #include <cstdio>
