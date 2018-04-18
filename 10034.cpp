@@ -1,4 +1,4 @@
-//UVa-10034    Freckles 
+//UVa-10034    Freckles sssss
 //#include <bits/stdc++.h>
 #include <algorithm>
 #include <cstdio>
