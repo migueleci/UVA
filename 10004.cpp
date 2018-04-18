@@ -1,4 +1,4 @@
-//UVa-10004    Bicoloring 
+//UVa-10004    Bicoloring  cambios
 //#include <bits/stdc++.h>
 #include <algorithm>
 #include <cstdio>
