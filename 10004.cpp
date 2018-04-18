@@ -1,4 +1,4 @@
-//UVa-10004    Bicoloring nueva prueba
+//UVa-10004    Bicoloring nueva prueba / orra mas
 //#include <bits/stdc++.h>
 #include <algorithm>
 #include <cstdio>
